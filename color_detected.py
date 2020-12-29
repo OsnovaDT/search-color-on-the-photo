@@ -6,7 +6,7 @@ import numpy as np
 MIN_RGB = np.array((0, 112, 0), np.uint8)
 MAX_RGB = np.array((115, 255, 115), np.uint8)
 
-IMAGE_PATH = 'bird.jpg'
+IMAGE_PATH = 'images/bird.jpg'
 
 # Текст для каждого прямоугольника
 RECTANGLE_TEXT = 'Green'
